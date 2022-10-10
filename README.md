@@ -30,9 +30,9 @@ I currently live in San Carlos de Bariloche, Argentina.
 
 
 ## 🛠 Skills used on this project
-* Next.js
-* Supabase
-* TailwindCSS
+* [Next.js](https://nextjs.org/)
+* [Supabase](https://supabase.com/)
+* [TailwindCSS](https://tailwindcss.com/)
 
 
 
