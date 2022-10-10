@@ -1,27 +1,43 @@
-# Next.js + Tailwind CSS Example
+# ✨ Supabase + Next.js + TailwindCSS
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This project is a simple example on how to use Supabase with Next.js and TailwindCSS.
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+### 👨🏻‍💻 Install
+To run the project install all the dependencies using the following command:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+`yarn`
 
-## How to use
+## 🚀 About Me
+I'm a full stack developer interested in continuing to learn and work with:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+➡ Solidity
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+➡ Express.js
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+➡ Node.js
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+➡ React.js
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+➡ Next.js
+
+➡ Docker
+
+➡ MongoDB
+
+I’m interested in learning and working on improving people’s lives through technology. I’m constantly learning new things, and have a special affinity for new languages (both IT-related and spoken!).
+I currently live in San Carlos de Bariloche, Argentina.
+
+
+## 🛠 Skills used on this project
+* Next.js
+* Supabase
+* TailwindCSS
+
+
+
+## 🔗 Links
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/MartinIglesias86) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-iglesias86)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Martin_codes86)
+
